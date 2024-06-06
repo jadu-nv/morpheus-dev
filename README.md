@@ -17,7 +17,7 @@ limitations under the License.
 
 ![NVIDIA Morpheus](./docs/source/img/morpheus-banner.png "Morpheus banner image")
 
-Jason was here, double checking permissions!
+Jason was here, double checking permissions, check again!
 
 # NVIDIA Morpheus
 
